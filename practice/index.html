@@ -7,25 +7,12 @@
 <body>
 <h1>jquery.get()</h1>
 
-<label>ID：<input type="number" name="name" value=""></label>
-<input type="button" value="送信">
-<p>名前：<span></span></p>
+<form enctype="multipart/form-data" action="__URL__" method="POST">
+    <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+    このファイルをアップロード: <input name="userfile" type="file" />
+    <input type="submit" value="ファイルを送信" />
 
-<script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
-<script>
-$(function() {
-
-    $("[type=button]").on("click", function() {
-
-        $.get("sample.php", {
-            id : $("[type=number]").val()
-        }, function(data) {
-            $("span").text(data);
-        });
-
-    });
-
-});
+</form>
 </script>
 </body>
 </html>
