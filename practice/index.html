@@ -1,27 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <title></title>
+    <meta charset="utf-8">
+    <title>ajax</title>
 </head>
 <body>
 <h1>jquery.get()</h1>
 
-  <label>ID:<input type="number" name="name" value=""></label>
-  <input type="button" value="submit">
-  <p>name:<span></span></p>
-  
-  <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
-  <script>
-    $(function() {
-        $("[type=button]").on("click", function() {
-          $.get("sample.php", {
+<label>ID：<input type="number" name="name" value=""></label>
+<input type="button" value="送信">
+<p>名前：<span></span></p>
+
+<script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>
+$(function() {
+
+    $("[type=button]").on("click", function() {
+
+        $.get("sample.php", {
             id : $("[type=number]").val()
-            }, function(data) {
+        }, function(data) {
             $("span").text(data);
-            });
-          });
         });
-  </script>
+
+    });
+
+});
+</script>
 </body>
 </html>
