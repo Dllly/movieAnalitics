@@ -2,24 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Makeing Video tags</title>
+  <title></title>
 </head>
 <body>
-<div>
-  <input type="file" id="files" name="files[]" multiple />
-  <output id="list"></output>
-  <script>
-    function handleFileSelect(evt) {
-      var files = evt.target.files;
-      var output = [];
-      for (var i = 0, f; f = files[i]; i++){
-        output.push('<li><strong>', escape(f.name), '</strong> (', f.type || 'n/a', ') - ', f.size, 'bytes, last modified: ', f.lastModifiedDate.toLocalString(), '</li>);
-      }
-      document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
-    }
-    
-    document.getElementById('files').addEvent
-  </script>
-</div>
+<form action="upload.php" method="post" enctype="multipart/form-data">
+  <p><input type="file" name="upfile" id="upfile" capture="camera" /></p>
+  <p><input type="submit" name="save" value="submit" /></p>
+</form> 
 </body>
 </html>
