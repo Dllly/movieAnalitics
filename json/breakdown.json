@@ -1,0 +1,2462 @@
+{
+  "accountId": "9175a638-902f-4683-9b40-41f850220068",
+  "id": "7818f569b4",
+  "partition": null,
+  "name": "「北朝鮮を完全に破壊」トランプ氏が国連で警告(170920)",
+  "description": null,
+  "userName": "叶夢有人",
+  "createTime": "2017-09-21T04:10:35.1294879+00:00",
+  "organization": "",
+  "privacyMode": "Private",
+  "state": "Processed",
+  "isOwned": true,
+  "isEditable": false,
+  "isBase": true,
+  "durationInSeconds": 73,
+  "summarizedInsights": {
+    "name": "「北朝鮮を完全に破壊」トランプ氏が国連で警告(170920)",
+    "shortId": "7818f569b4",
+    "privacyMode": 0,
+    "duration": {
+      "time": "00:01:13",
+      "seconds": 73
+    },
+    "thumbnailUrl": "https://www.videoindexer.ai/api/Thumbnail/7818f569b4/6fefcd4d-93e4-44d6-8efa-50d07f855ad3",
+    "faces": [
+      {
+        "id": 2306,
+        "shortId": "7818f569b4",
+        "bingId": "1a466af2-ed23-25bd-794d-1ca925e4681b",
+        "confidence": 0.9997382760047913,
+        "name": "ドナルド・トランプ",
+        "description": "ドナルド・ジョン・トランプ（Donald John Trump、1946年6月14日 - ）は、アメリカ合衆国の実業家、政治家。第45代アメリカ合衆国大統領。不動産会社トランプ・オーガナイゼーションの会長兼社長を務め、カジノ・ホテル運営会社トランプ・エンターテイメント・リゾーツの設立者である。 生粋のニューヨーカー（ニューヨークの市民）で …",
+        "title": null,
+        "thumbnailUrl": "/api/Thumbnail/7818f569b4/89013924-a5e6-4ae9-bacb-7ecafc37b2a3",
+        "thumbnailFullUrl": "https://www.videoindexer.ai/api/Thumbnail/7818f569b4/89013924-a5e6-4ae9-bacb-7ecafc37b2a3",
+        "appearances": [
+          {
+            "startTime": "00:00:14.1130000",
+            "endTime": "00:00:26.6930000",
+            "startSeconds": 14.1,
+            "endSeconds": 26.7
+          },
+          {
+            "startTime": "00:00:40.8070000",
+            "endTime": "00:01:11.6040000",
+            "startSeconds": 40.8,
+            "endSeconds": 71.6
+          }
+        ],
+        "seenDuration": 43.4,
+        "seenDurationRatio": 0.5945205479452055
+      },
+      {
+        "id": 1501,
+        "shortId": "7818f569b4",
+        "bingId": null,
+        "confidence": 0,
+        "name": "Unknown #1",
+        "description": null,
+        "title": null,
+        "thumbnailUrl": "/api/Thumbnail/7818f569b4/b2af164c-fccc-4a09-9862-4bfbf8cb3ffa",
+        "thumbnailFullUrl": "https://www.videoindexer.ai/api/Thumbnail/7818f569b4/b2af164c-fccc-4a09-9862-4bfbf8cb3ffa",
+        "appearances": [
+          {
+            "startTime": "00:00:32.8320000",
+            "endTime": "00:00:37.7370000",
+            "startSeconds": 32.8,
+            "endSeconds": 37.7
+          }
+        ],
+        "seenDuration": 4.900000000000006,
+        "seenDurationRatio": 0.06712328767123295
+      },
+      {
+        "id": 1502,
+        "shortId": "7818f569b4",
+        "bingId": null,
+        "confidence": 0,
+        "name": "Unknown #3",
+        "description": null,
+        "title": null,
+        "thumbnailUrl": "/api/Thumbnail/7818f569b4/8f87a366-5ec7-45b8-99ac-2ed56276b7f6",
+        "thumbnailFullUrl": "https://www.videoindexer.ai/api/Thumbnail/7818f569b4/8f87a366-5ec7-45b8-99ac-2ed56276b7f6",
+        "appearances": [
+          {
+            "startTime": "00:00:32.8320000",
+            "endTime": "00:00:37.7370000",
+            "startSeconds": 32.8,
+            "endSeconds": 37.7
+          }
+        ],
+        "seenDuration": 4.900000000000006,
+        "seenDurationRatio": 0.06712328767123295
+      }
+    ],
+    "topics": [
+      {
+        "name": "トランプ氏めぐみ",
+        "appearances": [
+          {
+            "startTime": "00:00:19.6860000",
+            "endTime": "00:00:00",
+            "startSeconds": 19.7,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:27.5610000",
+            "endTime": "00:00:00",
+            "startSeconds": 27.6,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:35.4350000",
+            "endTime": "00:00:00",
+            "startSeconds": 35.4,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:41.3410000",
+            "endTime": "00:00:00",
+            "startSeconds": 41.3,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:49.2160000",
+            "endTime": "00:00:00",
+            "startSeconds": 49.2,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:53.1530000",
+            "endTime": "00:00:00",
+            "startSeconds": 53.2,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:57.0900000",
+            "endTime": "00:00:00",
+            "startSeconds": 57.1,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:59.0590000",
+            "endTime": "00:00:00",
+            "startSeconds": 59.1,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:01:12.8390000",
+            "endTime": "00:00:00",
+            "startSeconds": 72.8,
+            "endSeconds": 0
+          }
+        ],
+        "isTranscript": false,
+        "id": 19
+      },
+      {
+        "name": "トランプ大統領",
+        "appearances": [
+          {
+            "startTime": "00:00:00",
+            "endTime": "00:00:00",
+            "startSeconds": 0,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:01.9690000",
+            "endTime": "00:00:00",
+            "startSeconds": 2,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:19.6860000",
+            "endTime": "00:00:00",
+            "startSeconds": 19.7,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:35.4350000",
+            "endTime": "00:00:00",
+            "startSeconds": 35.4,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:39.3730000",
+            "endTime": "00:00:00",
+            "startSeconds": 39.4,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:41.3410000",
+            "endTime": "00:00:00",
+            "startSeconds": 41.3,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:48.6700000",
+            "endTime": "00:00:00",
+            "startSeconds": 48.7,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:53.1530000",
+            "endTime": "00:00:00",
+            "startSeconds": 53.2,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:57.0900000",
+            "endTime": "00:00:00",
+            "startSeconds": 57.1,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:59.0590000",
+            "endTime": "00:00:00",
+            "startSeconds": 59.1,
+            "endSeconds": 0
+          }
+        ],
+        "isTranscript": false,
+        "id": 18
+      },
+      {
+        "name": "拉致被害者",
+        "appearances": [
+          {
+            "startTime": "00:00:48.6700000",
+            "endTime": "00:00:00",
+            "startSeconds": 48.7,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:53.1530000",
+            "endTime": "00:00:00",
+            "startSeconds": 53.2,
+            "endSeconds": 0
+          },
+          {
+            "startTime": "00:00:57.0900000",
+            "endTime": "00:00:00",
+            "startSeconds": 57.1,
+            "endSeconds": 0
+          }
+        ],
+        "isTranscript": false,
+        "id": 84
+      }
+    ],
+    "sentiments": [
+      {
+        "sentimentKey": "Neutral",
+        "appearances": [
+          {
+            "startTime": "00:00:00",
+            "endTime": "00:00:18.0400000",
+            "startSeconds": 0,
+            "endSeconds": 18
+          },
+          {
+            "startTime": "00:00:18.0400000",
+            "endTime": "00:00:20.3500000",
+            "startSeconds": 18,
+            "endSeconds": 20.3
+          },
+          {
+            "startTime": "00:00:20.3500000",
+            "endTime": "00:00:46.5400000",
+            "startSeconds": 20.3,
+            "endSeconds": 46.5
+          },
+          {
+            "startTime": "00:00:46.5400000",
+            "endTime": "00:00:48.6700000",
+            "startSeconds": 46.5,
+            "endSeconds": 48.7
+          },
+          {
+            "startTime": "00:00:48.6700000",
+            "endTime": "00:00:56.8300000",
+            "startSeconds": 48.7,
+            "endSeconds": 56.8
+          },
+          {
+            "startTime": "00:00:56.8300000",
+            "endTime": "00:00:58.8700000",
+            "startSeconds": 56.8,
+            "endSeconds": 58.9
+          },
+          {
+            "startTime": "00:00:58.8700000",
+            "endTime": "00:01:13",
+            "startSeconds": 58.9,
+            "endSeconds": 73
+          }
+        ],
+        "seenDurationRatio": 1
+      }
+    ],
+    "audioEffects": [
+      {
+        "audioEffectKey": "Speech",
+        "appearances": [
+          {
+            "startTime": "00:00:00.8800000",
+            "endTime": "00:01:12.7600000",
+            "startSeconds": 0.9,
+            "endSeconds": 72.8
+          }
+        ],
+        "seenDurationRatio": 0.984931506849315,
+        "seenDuration": 71.89999999999999
+      }
+    ],
+    "annotations": [
+      {
+        "name": "人",
+        "appearances": [
+          {
+            "startTime": "00:00:06.4720000",
+            "endTime": "00:00:26.7600000",
+            "startSeconds": 6.5,
+            "endSeconds": 26.8
+          },
+          {
+            "startTime": "00:00:33.1660000",
+            "endTime": "00:01:13",
+            "startSeconds": 33.2,
+            "endSeconds": 73
+          }
+        ]
+      },
+      {
+        "name": "男",
+        "appearances": [
+          {
+            "startTime": "00:00:18.2170000",
+            "endTime": "00:00:26.7600000",
+            "startSeconds": 18.2,
+            "endSeconds": 26.8
+          },
+          {
+            "startTime": "00:00:41.7080000",
+            "endTime": "00:01:08.4010000",
+            "startSeconds": 41.7,
+            "endSeconds": 68.4
+          }
+        ]
+      },
+      {
+        "name": "屋内",
+        "appearances": [
+          {
+            "startTime": "00:00:00.0660000",
+            "endTime": "00:00:06.4730000",
+            "startSeconds": 0.1,
+            "endSeconds": 6.5
+          },
+          {
+            "startTime": "00:00:16.0820000",
+            "endTime": "00:00:19.2850000",
+            "startSeconds": 16.1,
+            "endSeconds": 19.3
+          },
+          {
+            "startTime": "00:00:26.7590000",
+            "endTime": "00:00:31.0310000",
+            "startSeconds": 26.8,
+            "endSeconds": 31
+          },
+          {
+            "startTime": "00:00:50.2490000",
+            "endTime": "00:00:58.7920000",
+            "startSeconds": 50.2,
+            "endSeconds": 58.8
+          },
+          {
+            "startTime": "00:01:12.6720000",
+            "endTime": "00:01:13",
+            "startSeconds": 72.7,
+            "endSeconds": 73
+          }
+        ]
+      },
+      {
+        "name": "記号",
+        "appearances": [
+          {
+            "startTime": "00:00:20.3530000",
+            "endTime": "00:00:26.7600000",
+            "startSeconds": 20.4,
+            "endSeconds": 26.8
+          },
+          {
+            "startTime": "00:00:41.7080000",
+            "endTime": "00:00:48.1140000",
+            "startSeconds": 41.7,
+            "endSeconds": 48.1
+          },
+          {
+            "startTime": "00:00:59.8590000",
+            "endTime": "00:01:08.4010000",
+            "startSeconds": 59.9,
+            "endSeconds": 68.4
+          }
+        ]
+      },
+      {
+        "name": "スーツ",
+        "appearances": [
+          {
+            "startTime": "00:00:41.7080000",
+            "endTime": "00:00:51.3170000",
+            "startSeconds": 41.7,
+            "endSeconds": 51.3
+          },
+          {
+            "startTime": "00:00:58.7910000",
+            "endTime": "00:00:59.8590000",
+            "startSeconds": 58.8,
+            "endSeconds": 59.9
+          },
+          {
+            "startTime": "00:01:05.1980000",
+            "endTime": "00:01:06.2660000",
+            "startSeconds": 65.2,
+            "endSeconds": 66.3
+          }
+        ]
+      },
+      {
+        "name": "読書",
+        "appearances": [
+          {
+            "startTime": "00:00:43.8430000",
+            "endTime": "00:00:44.9110000",
+            "startSeconds": 43.8,
+            "endSeconds": 44.9
+          }
+        ]
+      }
+    ]
+  },
+  "breakdowns": [
+    {
+      "accountId": "9175a638-902f-4683-9b40-41f850220068",
+      "id": "7818f569b4",
+      "state": "Processed",
+      "processingProgress": "10%",
+      "failureCode": "General",
+      "failureMessage": "",
+      "externalId": null,
+      "externalUrl": null,
+      "metadata": null,
+      "insights": {
+        "transcriptBlocks": [
+          {
+            "id": 0,
+            "lines": [
+              {
+                "id": 0,
+                "timeRange": {
+                  "start": "00:00:00",
+                  "end": "00:00:18.0400000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:00",
+                  "end": "00:00:18.0400000"
+                },
+                "participantId": 1,
+                "text": "アメリカのトランプ大統領は国連総会での初めての一般討論演説で金正恩院長をロケットマント読んだうえでアメリカや同盟国を脅かせば北朝鮮を完全に 破壊すると警告しました",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 2306,
+                "thumbnailId": "89013924-a5e6-4ae9-bacb-7ecafc37b2a3",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:14.1130000",
+                      "end": "00:00:18.0400000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:14.1130000",
+                      "end": "00:00:18.0400000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [
+              {
+                "timeRange": {
+                  "start": "00:00:01.9690000",
+                  "end": "00:00:19.6860000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:01.9690000",
+                  "end": "00:00:18.0400000"
+                },
+                "lines": [
+                  {
+                    "id": 0,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ーー。トランプ大統領初あ国連演説、′",
+                    "confidence": 848.5932945392083
+                  },
+                  {
+                    "id": 1,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "「北朝鮮を完全破壊警告",
+                    "confidence": 838.0099431818182
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:00:03.9370000",
+                  "end": "00:00:05.9060000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:03.9370000",
+                  "end": "00:00:05.9060000"
+                },
+                "lines": [
+                  {
+                    "id": 2,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランフ大統領初の国連演説",
+                    "confidence": 855.5384615384617
+                  },
+                  {
+                    "id": 3,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "0k",
+                    "confidence": 503
+                  }
+                ]
+              }
+            ],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:00.8800000",
+                      "end": "00:00:18.0400000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 0,
+                "timeRange": {
+                  "start": "00:00:00",
+                  "end": "00:00:15.5820000"
+                },
+                "keyFrame": "00:00:08.5750000",
+                "shots": [
+                  {
+                    "id": 0,
+                    "timeRange": {
+                      "start": "00:00:00",
+                      "end": "00:00:15.5820000"
+                    },
+                    "keyFrame": "00:00:08.5750000"
+                  }
+                ]
+              },
+              {
+                "id": 1,
+                "timeRange": {
+                  "start": "00:00:15.5820000",
+                  "end": "00:00:18.0400000"
+                },
+                "keyFrame": "00:00:17.5180000",
+                "shots": [
+                  {
+                    "id": 1,
+                    "timeRange": {
+                      "start": "00:00:15.5820000",
+                      "end": "00:00:18.0400000"
+                    },
+                    "keyFrame": "00:00:17.5180000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "屋内",
+                "timeRanges": [
+                  {
+                    "start": "00:00:00.0660000",
+                    "end": "00:00:01.1340000"
+                  },
+                  {
+                    "start": "00:00:02.2010000",
+                    "end": "00:00:03.2690000"
+                  },
+                  {
+                    "start": "00:00:04.3370000",
+                    "end": "00:00:06.4730000"
+                  },
+                  {
+                    "start": "00:00:16.0820000",
+                    "end": "00:00:18.0400000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:00.0660000",
+                    "end": "00:00:01.1340000"
+                  },
+                  {
+                    "start": "00:00:02.2010000",
+                    "end": "00:00:03.2690000"
+                  },
+                  {
+                    "start": "00:00:04.3370000",
+                    "end": "00:00:06.4730000"
+                  },
+                  {
+                    "start": "00:00:16.0820000",
+                    "end": "00:00:18.0400000"
+                  }
+                ]
+              },
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:06.4720000",
+                    "end": "00:00:18.0400000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:06.4720000",
+                    "end": "00:00:18.0400000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "lines": [
+              {
+                "id": 1,
+                "timeRange": {
+                  "start": "00:00:18.0400000",
+                  "end": "00:00:20.3500000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:18.0400000",
+                  "end": "00:00:20.3500000"
+                },
+                "participantId": -2,
+                "text": "",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 2306,
+                "thumbnailId": "5e4d4d60-eee4-4a8b-abf0-26a527f82024",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:18.0400000",
+                      "end": "00:00:20.3500000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:18.0400000",
+                      "end": "00:00:20.3500000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [
+              {
+                "timeRange": {
+                  "start": "00:00:19.6860000",
+                  "end": "00:00:27.5610000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:19.6860000",
+                  "end": "00:00:20.3500000"
+                },
+                "lines": [
+                  {
+                    "id": 36,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 814.3068181818182
+                  },
+                  {
+                    "id": 37,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 945.4479166666667
+                  },
+                  {
+                    "id": 39,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ニュ-ヨ-ク国連本部",
+                    "confidence": 854.775
+                  },
+                  {
+                    "id": 40,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ大統領",
+                    "confidence": 943.5357142857142
+                  },
+                  {
+                    "id": 41,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮の核兵器や弾道ミサイルの",
+                    "confidence": 929.95
+                  },
+                  {
+                    "id": 42,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "無謀な開発が全世界を脅かしている",
+                    "confidence": 849.09375
+                  },
+                  {
+                    "id": 38,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "NEWS",
+                    "confidence": 466
+                  }
+                ]
+              }
+            ],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:18.0400000",
+                      "end": "00:00:18.0400000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 1,
+                "timeRange": {
+                  "start": "00:00:18.0400000",
+                  "end": "00:00:18.8180000"
+                },
+                "keyFrame": "00:00:17.5180000",
+                "shots": [
+                  {
+                    "id": 1,
+                    "timeRange": {
+                      "start": "00:00:18.0400000",
+                      "end": "00:00:18.8180000"
+                    },
+                    "keyFrame": "00:00:17.5180000"
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "timeRange": {
+                  "start": "00:00:18.8180000",
+                  "end": "00:00:20.3500000"
+                },
+                "keyFrame": "00:00:21.6880000",
+                "shots": [
+                  {
+                    "id": 2,
+                    "timeRange": {
+                      "start": "00:00:18.8180000",
+                      "end": "00:00:20.3500000"
+                    },
+                    "keyFrame": "00:00:21.6880000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "屋内",
+                "timeRanges": [
+                  {
+                    "start": "00:00:18.0400000",
+                    "end": "00:00:19.2850000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:18.0400000",
+                    "end": "00:00:19.2850000"
+                  }
+                ]
+              },
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:18.0400000",
+                    "end": "00:00:20.3500000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:18.0400000",
+                    "end": "00:00:20.3500000"
+                  }
+                ]
+              },
+              {
+                "name": "男",
+                "timeRanges": [
+                  {
+                    "start": "00:00:18.2170000",
+                    "end": "00:00:20.3500000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:18.2170000",
+                    "end": "00:00:20.3500000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "lines": [
+              {
+                "id": 2,
+                "timeRange": {
+                  "start": "00:00:20.3500000",
+                  "end": "00:00:40.4900000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:20.3500000",
+                  "end": "00:00:40.4900000"
+                },
+                "participantId": 2,
+                "text": "トレースフラグ少し緩めをやっぱり選択して牝牡空に全体をはっていうないでして一歳くらい近いんですわれる講和使節船で幸せ幸せ We は山を希少石はチャールズ行ってしろあいがつけられない",
+                "isIncluded": true,
+                "confidence": 1
+              },
+              {
+                "id": 3,
+                "timeRange": {
+                  "start": "00:00:40.4900000",
+                  "end": "00:00:46.5400000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:40.4900000",
+                  "end": "00:00:46.5400000"
+                },
+                "participantId": 2,
+                "text": "分けて面非常に使用しない物質のセラフ演奏練習いいん",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 1501,
+                "thumbnailId": "17b15186-454f-478c-b862-5c3e9185ea09",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:32.8320000",
+                      "end": "00:00:37.7370000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:32.8320000",
+                      "end": "00:00:37.7370000"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 2306,
+                "thumbnailId": "4cfd6050-8c8c-4b7e-936a-50c2b576386d",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:20.3500000",
+                      "end": "00:00:26.6930000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:20.3500000",
+                      "end": "00:00:26.6930000"
+                    }
+                  },
+                  {
+                    "timeRange": {
+                      "start": "00:00:40.8070000",
+                      "end": "00:00:46.5400000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:40.8070000",
+                      "end": "00:00:46.5400000"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 1502,
+                "thumbnailId": "b0905d85-fc5e-415e-9d70-b81708b4a294",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:32.8320000",
+                      "end": "00:00:37.7370000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:32.8320000",
+                      "end": "00:00:37.7370000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [
+              {
+                "timeRange": {
+                  "start": "00:00:27.5610000",
+                  "end": "00:00:35.4350000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:27.5610000",
+                  "end": "00:00:35.4350000"
+                },
+                "lines": [
+                  {
+                    "id": 43,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 798.75
+                  },
+                  {
+                    "id": 44,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 948.9375
+                  },
+                  {
+                    "id": 45,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "NE、'VS",
+                    "confidence": 699.75
+                  },
+                  {
+                    "id": 46,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "-、:をを",
+                    "confidence": 709
+                  },
+                  {
+                    "id": 47,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "米国には大きな強さと忍耐があるが一",
+                    "confidence": 845.9402277039848
+                  },
+                  {
+                    "id": 48,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "・もし米国ど向同盟国を守ることを強制れれ、",
+                    "confidence": 852.2916666666666
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:00:35.4350000",
+                  "end": "00:00:39.3730000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:35.4350000",
+                  "end": "00:00:39.3730000"
+                },
+                "lines": [
+                  {
+                    "id": 65,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 816.5454545454545
+                  },
+                  {
+                    "id": 66,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ト-ランプ氏めぐみさん言及",
+                    "confidence": 952.24
+                  },
+                  {
+                    "id": 67,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ大統領",
+                    "confidence": 943
+                  },
+                  {
+                    "id": 68,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ー北朝鮮を完全に破壊するしかない",
+                    "confidence": 898.15625
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:00:39.3730000",
+                  "end": "00:00:41.3410000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:39.3730000",
+                  "end": "00:00:41.3410000"
+                },
+                "lines": [
+                  {
+                    "id": 72,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "院氏",
+                    "confidence": 776
+                  },
+                  {
+                    "id": 73,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "全め",
+                    "confidence": 975
+                  },
+                  {
+                    "id": 74,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "告及",
+                    "confidence": 861
+                  },
+                  {
+                    "id": 75,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ大統領",
+                    "confidence": 948.4285714285713
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:00:41.3410000",
+                  "end": "00:00:49.2160000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:41.3410000",
+                  "end": "00:00:46.5400000"
+                },
+                "lines": [
+                  {
+                    "id": 76,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 812.1396103896104
+                  },
+                  {
+                    "id": 77,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 952.625
+                  },
+                  {
+                    "id": 78,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "NE、Ⅳ5",
+                    "confidence": 740.0999999999999
+                  },
+                  {
+                    "id": 79,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ大統領",
+                    "confidence": 946.0892857142858
+                  },
+                  {
+                    "id": 80,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ロケットマン(金正恩委員長)は",
+                    "confidence": 925.5051724137932
+                  },
+                  {
+                    "id": 81,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "自身と体制への自殺行為を続けてる",
+                    "confidence": 892.8237051458493
+                  }
+                ]
+              }
+            ],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:20.3500000",
+                      "end": "00:00:46.5400000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 2,
+                "timeRange": {
+                  "start": "00:00:20.3500000",
+                  "end": "00:00:26.6930000"
+                },
+                "keyFrame": "00:00:21.6880000",
+                "shots": [
+                  {
+                    "id": 2,
+                    "timeRange": {
+                      "start": "00:00:20.3500000",
+                      "end": "00:00:26.6930000"
+                    },
+                    "keyFrame": "00:00:21.6880000"
+                  }
+                ]
+              },
+              {
+                "id": 3,
+                "timeRange": {
+                  "start": "00:00:26.6930000",
+                  "end": "00:00:32.8320000"
+                },
+                "keyFrame": "00:00:26.6600000",
+                "shots": [
+                  {
+                    "id": 3,
+                    "timeRange": {
+                      "start": "00:00:26.6930000",
+                      "end": "00:00:32.8320000"
+                    },
+                    "keyFrame": "00:00:26.6600000"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "timeRange": {
+                  "start": "00:00:32.8320000",
+                  "end": "00:00:40.8070000"
+                },
+                "keyFrame": "00:00:33",
+                "shots": [
+                  {
+                    "id": 4,
+                    "timeRange": {
+                      "start": "00:00:32.8320000",
+                      "end": "00:00:37.7370000"
+                    },
+                    "keyFrame": "00:00:33"
+                  },
+                  {
+                    "id": 5,
+                    "timeRange": {
+                      "start": "00:00:37.7370000",
+                      "end": "00:00:40.8070000"
+                    },
+                    "keyFrame": "00:00:37.7040000"
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "timeRange": {
+                  "start": "00:00:40.8070000",
+                  "end": "00:00:46.5400000"
+                },
+                "keyFrame": "00:00:40.7740000",
+                "shots": [
+                  {
+                    "id": 6,
+                    "timeRange": {
+                      "start": "00:00:40.8070000",
+                      "end": "00:00:46.5400000"
+                    },
+                    "keyFrame": "00:00:40.7740000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "屋内",
+                "timeRanges": [
+                  {
+                    "start": "00:00:26.7590000",
+                    "end": "00:00:27.8270000"
+                  },
+                  {
+                    "start": "00:00:29.9630000",
+                    "end": "00:00:31.0310000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:26.7590000",
+                    "end": "00:00:27.8270000"
+                  },
+                  {
+                    "start": "00:00:29.9630000",
+                    "end": "00:00:31.0310000"
+                  }
+                ]
+              },
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:20.3500000",
+                    "end": "00:00:26.7600000"
+                  },
+                  {
+                    "start": "00:00:33.1660000",
+                    "end": "00:00:46.5400000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:20.3500000",
+                    "end": "00:00:26.7600000"
+                  },
+                  {
+                    "start": "00:00:33.1660000",
+                    "end": "00:00:46.5400000"
+                  }
+                ]
+              },
+              {
+                "name": "男",
+                "timeRanges": [
+                  {
+                    "start": "00:00:20.3500000",
+                    "end": "00:00:26.7600000"
+                  },
+                  {
+                    "start": "00:00:41.7080000",
+                    "end": "00:00:46.5400000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:20.3500000",
+                    "end": "00:00:26.7600000"
+                  },
+                  {
+                    "start": "00:00:41.7080000",
+                    "end": "00:00:46.5400000"
+                  }
+                ]
+              },
+              {
+                "name": "記号",
+                "timeRanges": [
+                  {
+                    "start": "00:00:20.3530000",
+                    "end": "00:00:26.7600000"
+                  },
+                  {
+                    "start": "00:00:41.7080000",
+                    "end": "00:00:46.5400000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:20.3530000",
+                    "end": "00:00:26.7600000"
+                  },
+                  {
+                    "start": "00:00:41.7080000",
+                    "end": "00:00:46.5400000"
+                  }
+                ]
+              },
+              {
+                "name": "スーツ",
+                "timeRanges": [
+                  {
+                    "start": "00:00:41.7080000",
+                    "end": "00:00:46.5400000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:41.7080000",
+                    "end": "00:00:46.5400000"
+                  }
+                ]
+              },
+              {
+                "name": "読書",
+                "timeRanges": [
+                  {
+                    "start": "00:00:43.8430000",
+                    "end": "00:00:44.9110000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:43.8430000",
+                    "end": "00:00:44.9110000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "lines": [
+              {
+                "id": 4,
+                "timeRange": {
+                  "start": "00:00:46.5400000",
+                  "end": "00:00:48.6700000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:46.5400000",
+                  "end": "00:00:48.6700000"
+                },
+                "participantId": -2,
+                "text": "",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 2306,
+                "thumbnailId": "b450bef8-5e2f-4d37-ae40-05aa2e1af812",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:46.5400000",
+                      "end": "00:00:48.1810000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:46.5400000",
+                      "end": "00:00:48.1810000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:46.5400000",
+                      "end": "00:00:46.5400000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 5,
+                "timeRange": {
+                  "start": "00:00:46.5400000",
+                  "end": "00:00:48.1810000"
+                },
+                "keyFrame": "00:00:40.7740000",
+                "shots": [
+                  {
+                    "id": 6,
+                    "timeRange": {
+                      "start": "00:00:46.5400000",
+                      "end": "00:00:48.1810000"
+                    },
+                    "keyFrame": "00:00:40.7740000"
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "timeRange": {
+                  "start": "00:00:48.1810000",
+                  "end": "00:00:48.6700000"
+                },
+                "keyFrame": "00:00:51.9190000",
+                "shots": [
+                  {
+                    "id": 7,
+                    "timeRange": {
+                      "start": "00:00:48.1810000",
+                      "end": "00:00:48.6700000"
+                    },
+                    "keyFrame": "00:00:51.9190000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.6700000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.6700000"
+                  }
+                ]
+              },
+              {
+                "name": "男",
+                "timeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.6700000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.6700000"
+                  }
+                ]
+              },
+              {
+                "name": "記号",
+                "timeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.1140000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.1140000"
+                  }
+                ]
+              },
+              {
+                "name": "スーツ",
+                "timeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.6700000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:46.5400000",
+                    "end": "00:00:48.6700000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "lines": [
+              {
+                "id": 5,
+                "timeRange": {
+                  "start": "00:00:48.6700000",
+                  "end": "00:00:56.8300000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:48.6700000",
+                  "end": "00:00:56.8300000"
+                },
+                "participantId": 2,
+                "text": "またはトランプ大統領は北朝鮮の人権問題に触れる中で拉致被害者の横田めぐみさんについても言及しました",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 2306,
+                "thumbnailId": "bd90942f-d58f-400c-8e57-717c3dfcee3b",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:49.5150000",
+                      "end": "00:00:55.7220000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:49.5150000",
+                      "end": "00:00:55.7220000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [
+              {
+                "timeRange": {
+                  "start": "00:00:49.2160000",
+                  "end": "00:00:53.1530000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:49.2160000",
+                  "end": "00:00:53.1530000"
+                },
+                "lines": [
+                  {
+                    "id": 102,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 763.3888888888889
+                  },
+                  {
+                    "id": 103,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 934.75
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:00:51.1840000",
+                  "end": "00:00:53.1530000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:51.1840000",
+                  "end": "00:00:53.1530000"
+                },
+                "lines": [
+                  {
+                    "id": 106,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "N EW日",
+                    "confidence": 546.5
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:00:53.1530000",
+                  "end": "00:00:57.0900000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:53.1530000",
+                  "end": "00:00:56.8300000"
+                },
+                "lines": [
+                  {
+                    "id": 113,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 681.421052631579
+                  },
+                  {
+                    "id": 114,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 936.75
+                  },
+                  {
+                    "id": 115,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "N EW′S",
+                    "confidence": 746.0799999999999
+                  },
+                  {
+                    "id": 116,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ニューヨーク国連本部",
+                    "confidence": 839.6
+                  },
+                  {
+                    "id": 118,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ大統領",
+                    "confidence": 956.2857142857142
+                  },
+                  {
+                    "id": 119,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "拉致被害者の横田めぐみさんに言及",
+                    "confidence": 951.71875
+                  },
+                  {
+                    "id": 117,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "1 9日",
+                    "confidence": 950.6666666666667
+                  }
+                ]
+              }
+            ],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:48.6700000",
+                      "end": "00:00:56.8300000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 6,
+                "timeRange": {
+                  "start": "00:00:48.6700000",
+                  "end": "00:00:55.7220000"
+                },
+                "keyFrame": "00:00:51.9190000",
+                "shots": [
+                  {
+                    "id": 7,
+                    "timeRange": {
+                      "start": "00:00:48.6700000",
+                      "end": "00:00:55.7220000"
+                    },
+                    "keyFrame": "00:00:51.9190000"
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "timeRange": {
+                  "start": "00:00:55.7220000",
+                  "end": "00:00:56.8300000"
+                },
+                "keyFrame": "00:00:57.6240000",
+                "shots": [
+                  {
+                    "id": 8,
+                    "timeRange": {
+                      "start": "00:00:55.7220000",
+                      "end": "00:00:56.8300000"
+                    },
+                    "keyFrame": "00:00:57.6240000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "屋内",
+                "timeRanges": [
+                  {
+                    "start": "00:00:50.2490000",
+                    "end": "00:00:51.3170000"
+                  },
+                  {
+                    "start": "00:00:53.4530000",
+                    "end": "00:00:56.6560000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:50.2490000",
+                    "end": "00:00:51.3170000"
+                  },
+                  {
+                    "start": "00:00:53.4530000",
+                    "end": "00:00:56.6560000"
+                  }
+                ]
+              },
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:48.6700000",
+                    "end": "00:00:56.6560000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:48.6700000",
+                    "end": "00:00:56.6560000"
+                  }
+                ]
+              },
+              {
+                "name": "男",
+                "timeRanges": [
+                  {
+                    "start": "00:00:48.6700000",
+                    "end": "00:00:49.1820000"
+                  },
+                  {
+                    "start": "00:00:50.2490000",
+                    "end": "00:00:56.6560000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:48.6700000",
+                    "end": "00:00:49.1820000"
+                  },
+                  {
+                    "start": "00:00:50.2490000",
+                    "end": "00:00:56.6560000"
+                  }
+                ]
+              },
+              {
+                "name": "スーツ",
+                "timeRanges": [
+                  {
+                    "start": "00:00:48.6700000",
+                    "end": "00:00:49.1820000"
+                  },
+                  {
+                    "start": "00:00:50.2490000",
+                    "end": "00:00:51.3170000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:48.6700000",
+                    "end": "00:00:49.1820000"
+                  },
+                  {
+                    "start": "00:00:50.2490000",
+                    "end": "00:00:51.3170000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "lines": [
+              {
+                "id": 6,
+                "timeRange": {
+                  "start": "00:00:56.8300000",
+                  "end": "00:00:58.8700000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:56.8300000",
+                  "end": "00:00:58.8700000"
+                },
+                "participantId": -2,
+                "text": "",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 2306,
+                "thumbnailId": "3b3aaaa5-6c03-49cb-90d1-0026bfe365fc",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:58.1240000",
+                      "end": "00:00:58.8700000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:58.1240000",
+                      "end": "00:00:58.8700000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [
+              {
+                "timeRange": {
+                  "start": "00:00:57.0900000",
+                  "end": "00:00:59.0590000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:57.0900000",
+                  "end": "00:00:58.8700000"
+                },
+                "lines": [
+                  {
+                    "id": 120,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 773.2727272727274
+                  },
+                  {
+                    "id": 121,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 956.4166666666667
+                  },
+                  {
+                    "id": 122,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "NE、MS",
+                    "confidence": 709.8
+                  },
+                  {
+                    "id": 123,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "ニューヨーク国連本部",
+                    "confidence": 866.6
+                  },
+                  {
+                    "id": 124,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "19日",
+                    "confidence": 984
+                  },
+                  {
+                    "id": 125,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ大統領",
+                    "confidence": 919
+                  },
+                  {
+                    "id": 126,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "-拉致被害者の横田めぐみさんに言及",
+                    "confidence": 939.0588235294117
+                  }
+                ]
+              }
+            ],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:56.8300000",
+                      "end": "00:00:56.8300000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 7,
+                "timeRange": {
+                  "start": "00:00:56.8300000",
+                  "end": "00:00:58.1240000"
+                },
+                "keyFrame": "00:00:57.6240000",
+                "shots": [
+                  {
+                    "id": 8,
+                    "timeRange": {
+                      "start": "00:00:56.8300000",
+                      "end": "00:00:58.1240000"
+                    },
+                    "keyFrame": "00:00:57.6240000"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "timeRange": {
+                  "start": "00:00:58.1240000",
+                  "end": "00:00:58.8700000"
+                },
+                "keyFrame": "00:00:58.0910000",
+                "shots": [
+                  {
+                    "id": 9,
+                    "timeRange": {
+                      "start": "00:00:58.1240000",
+                      "end": "00:00:58.8700000"
+                    },
+                    "keyFrame": "00:00:58.0910000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "屋内",
+                "timeRanges": [
+                  {
+                    "start": "00:00:57.7240000",
+                    "end": "00:00:58.7920000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:57.7240000",
+                    "end": "00:00:58.7920000"
+                  }
+                ]
+              },
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:58.7910000",
+                    "end": "00:00:58.8700000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:58.7910000",
+                    "end": "00:00:58.8700000"
+                  }
+                ]
+              },
+              {
+                "name": "男",
+                "timeRanges": [
+                  {
+                    "start": "00:00:58.7910000",
+                    "end": "00:00:58.8700000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:58.7910000",
+                    "end": "00:00:58.8700000"
+                  }
+                ]
+              },
+              {
+                "name": "スーツ",
+                "timeRanges": [
+                  {
+                    "start": "00:00:58.7910000",
+                    "end": "00:00:58.8700000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:58.7910000",
+                    "end": "00:00:58.8700000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "lines": [
+              {
+                "id": 7,
+                "timeRange": {
+                  "start": "00:00:58.8700000",
+                  "end": "00:01:13"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:58.8700000",
+                  "end": "00:01:13"
+                },
+                "participantId": 2,
+                "text": "ウィンナーをエスケープなやっぱり一生いされ地位によるは落ち合プリンスらサンビーチのローン期間中乗にスナイパーのワインをいチュール総理のストレージスパイス",
+                "isIncluded": true,
+                "confidence": 1
+              }
+            ],
+            "sentimentIds": [],
+            "thumbnailsIds": [],
+            "sentiment": 0,
+            "faces": [
+              {
+                "id": 2306,
+                "thumbnailId": "8b794000-98c7-43cd-99a1-fb13c8eb593a",
+                "ranges": [
+                  {
+                    "timeRange": {
+                      "start": "00:00:58.8700000",
+                      "end": "00:01:11.6040000"
+                    },
+                    "adjustedTimeRange": {
+                      "start": "00:00:58.8700000",
+                      "end": "00:01:11.6040000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ocrs": [
+              {
+                "timeRange": {
+                  "start": "00:00:59.0590000",
+                  "end": "00:01:10.9040000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:00:59.0590000",
+                  "end": "00:01:10.9040000"
+                },
+                "lines": [
+                  {
+                    "id": 127,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 815.1931818181818
+                  },
+                  {
+                    "id": 128,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 945.4895833333333
+                  },
+                  {
+                    "id": 129,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "7トランプ大統領",
+                    "confidence": 918.3288888888889
+                  },
+                  {
+                    "id": 130,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "日本鮮の愛らしい1 3歳の少女が",
+                    "confidence": 870.1492346938776
+                  },
+                  {
+                    "id": 131,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "自国の海岸から拉致され一",
+                    "confidence": 903.943181818182
+                  }
+                ]
+              },
+              {
+                "timeRange": {
+                  "start": "00:01:12.8390000",
+                  "end": "00:01:12.8730000"
+                },
+                "adjustedTimeRange": {
+                  "start": "00:01:12.8390000",
+                  "end": "00:01:12.8730000"
+                },
+                "lines": [
+                  {
+                    "id": 161,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "北朝鮮院全破壊」と警告",
+                    "confidence": 818.5454545454545
+                  },
+                  {
+                    "id": 162,
+                    "width": 0,
+                    "height": 0,
+                    "language": "Japanese",
+                    "textData": "トランプ氏めぐみさん言及",
+                    "confidence": 909.1666666666667
+                  }
+                ]
+              }
+            ],
+            "audioEffectInstances": [
+              {
+                "type": 4,
+                "ranges": [
+                  {
+                    "type": 4,
+                    "timeRange": {
+                      "start": "00:00:58.8700000",
+                      "end": "00:01:12.7600000"
+                    }
+                  }
+                ]
+              }
+            ],
+            "scenes": [
+              {
+                "id": 8,
+                "timeRange": {
+                  "start": "00:00:58.8700000",
+                  "end": "00:01:08.2680000"
+                },
+                "keyFrame": "00:00:58.0910000",
+                "shots": [
+                  {
+                    "id": 9,
+                    "timeRange": {
+                      "start": "00:00:58.8700000",
+                      "end": "00:01:08.2680000"
+                    },
+                    "keyFrame": "00:00:58.0910000"
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "timeRange": {
+                  "start": "00:01:08.2680000",
+                  "end": "00:01:13"
+                },
+                "keyFrame": "00:01:08.2350000",
+                "shots": [
+                  {
+                    "id": 10,
+                    "timeRange": {
+                      "start": "00:01:08.2680000",
+                      "end": "00:01:13"
+                    },
+                    "keyFrame": "00:01:08.2350000"
+                  }
+                ]
+              }
+            ],
+            "annotations": [
+              {
+                "name": "屋内",
+                "timeRanges": [
+                  {
+                    "start": "00:01:12.6720000",
+                    "end": "00:01:13"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:01:12.6720000",
+                    "end": "00:01:13"
+                  }
+                ]
+              },
+              {
+                "name": "人",
+                "timeRanges": [
+                  {
+                    "start": "00:00:58.8700000",
+                    "end": "00:01:13"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:58.8700000",
+                    "end": "00:01:13"
+                  }
+                ]
+              },
+              {
+                "name": "男",
+                "timeRanges": [
+                  {
+                    "start": "00:00:58.8700000",
+                    "end": "00:01:08.4010000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:58.8700000",
+                    "end": "00:01:08.4010000"
+                  }
+                ]
+              },
+              {
+                "name": "記号",
+                "timeRanges": [
+                  {
+                    "start": "00:00:59.8590000",
+                    "end": "00:01:08.4010000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:59.8590000",
+                    "end": "00:01:08.4010000"
+                  }
+                ]
+              },
+              {
+                "name": "スーツ",
+                "timeRanges": [
+                  {
+                    "start": "00:00:58.8700000",
+                    "end": "00:00:59.8590000"
+                  },
+                  {
+                    "start": "00:01:05.1980000",
+                    "end": "00:01:06.2660000"
+                  }
+                ],
+                "adjustedTimeRanges": [
+                  {
+                    "start": "00:00:58.8700000",
+                    "end": "00:00:59.8590000"
+                  },
+                  {
+                    "start": "00:01:05.1980000",
+                    "end": "00:01:06.2660000"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "id": 19,
+            "name": "トランプ氏めぐみ",
+            "stem": null,
+            "words": [
+              "トランプ氏めぐみ"
+            ],
+            "rank": 0.054545454545454675
+          },
+          {
+            "id": 18,
+            "name": "トランプ大統領",
+            "stem": null,
+            "words": [
+              "トランプ大統領"
+            ],
+            "rank": -0.02237762237762242
+          },
+          {
+            "id": 32,
+            "name": "米国ど向盟国",
+            "stem": null,
+            "words": [
+              "米国ど向盟国"
+            ],
+            "rank": -0.09930069930069929
+          },
+          {
+            "id": 113,
+            "name": "MS. ニューヨーク国連本部",
+            "stem": "MS. ニューヨーク国連本部",
+            "words": [
+              "MS. ニューヨーク国連本部"
+            ],
+            "rank": -0.1653846153846154
+          },
+          {
+            "id": 84,
+            "name": "拉致被害者",
+            "stem": null,
+            "words": [
+              "拉致被害者"
+            ],
+            "rank": -0.17622377622377616
+          }
+        ],
+        "faces": [
+          {
+            "id": 1501,
+            "bingId": null,
+            "name": "Unknown #1",
+            "thumbnailId": "b2af164c-fccc-4a09-9862-4bfbf8cb3ffa",
+            "description": null,
+            "title": null,
+            "imageUrl": null,
+            "confidence": 0,
+            "knownPersonId": "00000000-0000-0000-0000-000000000000"
+          },
+          {
+            "id": 2306,
+            "bingId": "1a466af2-ed23-25bd-794d-1ca925e4681b",
+            "name": "ドナルド・トランプ",
+            "thumbnailId": "89013924-a5e6-4ae9-bacb-7ecafc37b2a3",
+            "description": "ドナルド・ジョン・トランプ（Donald John Trump、1946年6月14日 - ）は、アメリカ合衆国の実業家、政治家。第45代アメリカ合衆国大統領。不動産会社トランプ・オーガナイゼーションの会長兼社長を務め、カジノ・ホテル運営会社トランプ・エンターテイメント・リゾーツの設立者である。 生粋のニューヨーカー（ニューヨークの市民）で …",
+            "title": null,
+            "imageUrl": "https://www.bing.com/th?id=A065aacca2462f0083698b5e88761fec3&c=12&rs=1&qlt=80&cdv=1&pid=16.2",
+            "confidence": 0.9997382760047913,
+            "knownPersonId": "00000000-0000-0000-0000-000000000000"
+          },
+          {
+            "id": 1502,
+            "bingId": null,
+            "name": "Unknown #3",
+            "thumbnailId": "8f87a366-5ec7-45b8-99ac-2ed56276b7f6",
+            "description": null,
+            "title": null,
+            "imageUrl": null,
+            "confidence": 0,
+            "knownPersonId": "00000000-0000-0000-0000-000000000000"
+          }
+        ],
+        "participants": [
+          {
+            "id": 1,
+            "name": "Speaker #1",
+            "pictureUrl": null
+          },
+          {
+            "id": 2,
+            "name": "Speaker #2",
+            "pictureUrl": null
+          }
+        ],
+        "contentModeration": {
+          "adultClassifierValue": 0.57682,
+          "bannedWordsCount": 0,
+          "bannedWordsRatio": 0,
+          "isSuspectedAsAdult": false,
+          "isAdult": false
+        },
+        "audioEffectsCategories": [
+          {
+            "type": 4,
+            "key": "Speech"
+          }
+        ]
+      },
+      "thumbnailUrl": "https://www.videoindexer.ai/api/Thumbnail/7818f569b4/6fefcd4d-93e4-44d6-8efa-50d07f855ad3",
+      "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/2a8c35ee-371e-4a8d-a8e8-c3ea6528915d/170920.ism/manifest",
+      "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiIzZTk5YThlNC0xYTRiLTRhNmQtYTg4NS04ZDk1OTlhNDc5YzIiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1MDYxMzE5NTYsIm5iZiI6MTUwNjA0NTQ5Nn0.3YCvyylaDV8ynLEbdVHxp6jTxAFvbDIbDKn_FuX-3tI",
+      "sourceLanguage": "ja-JP",
+      "language": "ja-JP"
+    }
+  ],
+  "social": {
+    "likedByUser": false,
+    "likes": 0,
+    "views": 7
+  }
+}

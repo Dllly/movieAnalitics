@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Makeing Video tags</title>
+</head>
+<body>
+<div>
+  <input type="file" id="files" name="files[]" multiple />
+  <output id="list"></output>
+  <script>
+    function handleFileSelect(evt) {
+      var files = evt.target.files;
+      var output = [];
+      for (var i = 0, f; f = files[i]; i++){
+        output.push('<li><strong>', escape(f.name), '</strong> (', f.type || 'n/a', ') - ', f.size, 'bytes, last modified: ', f.lastModifiedDate.toLocalString(), '</li>);
+      }
+      document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
+    }
+    
+    document.getElementById('files').addEvent
+  </script>
+</div>
+</body>
+</html>
