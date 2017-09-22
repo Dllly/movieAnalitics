@@ -7,12 +7,9 @@
 <body>
 <h1>jquery.get()</h1>
 
-<form enctype="multipart/form-data" action="__URL__" method="POST">
-    <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
-    このファイルをアップロード: <input name="userfile" type="file" />
-    <input type="submit" value="ファイルを送信" />
-
+<form method="post" action="sample.php" enctype="multipart/form-data">
+  file: <input type="file" name="userfile"><br>
+  <input type="submit" value="upload">
 </form>
-</script>
 </body>
 </html>
