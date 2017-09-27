@@ -1,0 +1,34 @@
+a:16:{s:7:"attribs";a:4:{s:5:"xmlns";s:37:"http://pear.php.net/dtd/rest.release2";s:9:"xmlns:xsi";s:41:"http://www.w3.org/2001/XMLSchema-instance";s:11:"xmlns:xlink";s:28:"http://www.w3.org/1999/xlink";s:18:"xsi:schemaLocation";s:83:"http://pear.php.net/dtd/rest.release2     http://pear.php.net/dtd/rest.release2.xsd";}s:1:"p";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:21:"/rest/p/http_request2";}s:8:"_content";s:13:"HTTP_Request2";}s:1:"c";s:12:"pear.php.net";s:1:"v";s:5:"2.3.0";s:1:"a";s:5:"2.3.0";s:2:"mp";s:5:"5.2.0";s:2:"st";s:6:"stable";s:1:"l";s:20:"BSD 3-Clause License";s:1:"m";s:3:"avb";s:1:"s";s:46:"Provides an easy way to perform HTTP requests.";s:1:"d";s:514:"PHP5 rewrite of HTTP_Request package (with parts of HTTP_Client). Provides
+cleaner API and pluggable Adapters:
+  * Socket adapter, based on old HTTP_Request code,
+  * Curl adapter, wraps around PHP's cURL extension,
+  * Mock adapter, to use for testing packages dependent on HTTP_Request2.
+Supports POST requests with data and file uploads, basic and digest
+authentication, cookies, managing cookies across requests, proxies, gzip and
+deflate encodings, redirects, monitoring the request progress with Observers...";s:2:"da";s:19:"2016-02-13 15:24:52";s:1:"n";s:1638:"New features:
+ * New observer that can do on-the-fly decoding of compressed responses,
+   see HTTP_Request2_Observer_UncompressingDownload.
+   Thanks to Delian Krustev for initial implementation.
+ * CookieJar can now silently ignore invalid cookies with $jar->ignoreInvalidCookies(true);
+   instead of throwing an exception. See requests #19937 and #20401
+ * Adapters now dispatch a new 'warning' event, e.g. in case of incomplete response
+   body or broken 'chunked' encoding. Exception was thrown previously by Socket adapter
+   in the latter case, see bug #20228
+ * Improved security of HTTPS requests in Socket adapter
+   - Use 'tls://' instead of 'ssl://' in connection string to prevent fallback to
+     known insecure versions, use only TLS when enabling crypto via proxy (see bug #20462)
+   - On PHP 5.6+ require using only TLS 1.1 and TLS 1.2
+   - Do not use insecure ciphers
+ * Improved test suite, network-backed tests now run on Travis CI
+
+Changes and fixes:
+ * Curl adapter failed to send PUT request body with 'follow_redirects' on (bug #20440)
+ * Curl adapter supplied invalid cookie domain to CookieJar after redirect (bug #20561)
+ * Curl adapter now properly dispatches events while sending the request
+ * mime_content_type() returning false was handled incorrectly when guessing content-type
+ * Use 'peer_name' and 'verify_peer_name' SSL context options on PHP 5.6+
+   instead of deprecated 'CN_match'
+ * Public Suffix List updated to current version, its download location changed
+
+Note to Composer users: next package version will probably get rid of 'include-path'
+setting in composer.json favour of using autoloader.";s:1:"f";s:6:"119717";s:1:"g";s:43:"http://pear.php.net/get/HTTP_Request2-2.3.0";s:1:"x";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:17:"package.2.3.0.xml";}}}
