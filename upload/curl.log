@@ -195,3 +195,1360 @@ Content-Type: multipart/form-data; boundary=----------------------------4a7f9fa0
 < Date: Wed, 27 Sep 2017 01:40:24 GMT
 < 
 * Connection #1 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=testUp&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12734438
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------9d1c86397012
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 01:57:55 GMT
+< 
+* Connection #4 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#8)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#8)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=testUp&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12734438
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------b7719f9d1182
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 02:01:43 GMT
+< 
+* Connection #8 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#1)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#1)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=testUp&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12734438
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------4a7f9fa0ca98
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 02:04:09 GMT
+< 
+* Connection #1 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=testUp&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12734438
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------9d1c86397012
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 02:17:00 GMT
+< 
+* Connection #4 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#2)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#2)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=testUp&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12734438
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------8d0f531bdc3e
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 02:20:07 GMT
+< 
+* Connection #2 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#5)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#5)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=testUp&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12734438
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------153a8373db63
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 02:20:21 GMT
+< 
+* Connection #5 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#6)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#6)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=uploadingTest&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------ec682d1c5c87
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 03:17:17 GMT
+< 
+* Connection #6 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#9)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#9)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=Ê∏ãË∞∑„Çπ„ÇØ„É©„É≥„Éñ„É´&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 5597690
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------f46953787cfb
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 03:53:54 GMT
+< 
+* Connection #9 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#7)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#7)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=caminandes&privacy=Private&language=en-US HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 200421133
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------497882713d64
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 03:57:26 GMT
+< 
+* Connection #7 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#3)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#3)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=Ëû≥Áâô?Âí≤ÔΩ∑ÂÜóÁÇä&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------bba2905667a6
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 05:58:13 GMT
+< 
+* Connection #3 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#8)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#8)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=ÂÆâÂÄçÁ∑èÁêÜ&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------b7719f9d1182
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:02:32 GMT
+< 
+* Connection #8 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=à¿î{ëçóù&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------9d1c86397012
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:03:16 GMT
+< 
+* Connection #4 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#9)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#9)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=à¿î{ëçóù&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------f46953787cfb
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:15:41 GMT
+< 
+* Connection #9 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=ÂÆâÂÄçÁ∑èÁêÜ&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------9d1c86397012
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:19:42 GMT
+< 
+* Connection #4 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=????&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------bba2905667a6
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:25:54 GMT
+< 
+* Connection #4 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#3)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#3)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name==?UTF-8?B?5a6J5YCN57eP55CG?=&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 13791476
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------bba2905667a6
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:34:21 GMT
+< 
+* Connection #3 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#0)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#0)
+* Initializing NSS with certpath: sql:/etc/pki/nssdb
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=%E5%AE%89%E5%80%8D%E7%B7%8F%E7%90%86&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 26088779
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------293bd6d2a7e4
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 06:40:38 GMT
+< 
+* Connection #0 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#5)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#5)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns?name=%E6%9D%B1%E9%80%B2&privacy=Private&language=ja-JP HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 12484917
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=----------------------------153a8373db63
+
+< HTTP/1.1 100 Continue
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< Pragma: no-cache
+< Content-Length: 12
+< Content-Type: application/json; charset=utf-8
+< Expires: -1
+< X-Content-Type-Options: nosniff
+< X-Powered-By: ASP.NET
+< Date: Wed, 27 Sep 2017 07:05:58 GMT
+< 
+* Connection #5 to host videobreakdown.azure-api.net left intact
+* About to connect() to videobreakdown.azure-api.net port 443 (#5)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#5)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:34:17 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 5
+* About to connect() to videobreakdown.azure-api.net port 443 (#1)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#1)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:35:47 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 1
+* About to connect() to videobreakdown.azure-api.net port 443 (#10)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#10)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:40:46 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 10
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:40:46 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 4
+* About to connect() to videobreakdown.azure-api.net port 443 (#5)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#5)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/ HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:40:51 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 5
+* About to connect() to videobreakdown.azure-api.net port 443 (#6)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#6)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:41:21 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 6
+* About to connect() to videobreakdown.azure-api.net port 443 (#2)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#2)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:41:46 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 2
+* About to connect() to videobreakdown.azure-api.net port 443 (#5)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#5)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:44:02 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 5
+* About to connect() to videobreakdown.azure-api.net port 443 (#10)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#10)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:44:22 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 10
+* About to connect() to videobreakdown.azure-api.net port 443 (#6)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#6)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 07:46:48 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 6
+* About to connect() to videobreakdown.azure-api.net port 443 (#3)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#3)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 09:40:55 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 3
+* About to connect() to videobreakdown.azure-api.net port 443 (#11)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#11)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 09:42:36 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 11
+* About to connect() to videobreakdown.azure-api.net port 443 (#11)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#11)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 09:44:56 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 11
+* About to connect() to videobreakdown.azure-api.net port 443 (#6)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#6)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 09:46:47 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 6
+* About to connect() to videobreakdown.azure-api.net port 443 (#4)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#4)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:50:16 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 4
+* About to connect() to videobreakdown.azure-api.net port 443 (#2)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#2)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:52:47 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 2
+* About to connect() to videobreakdown.azure-api.net port 443 (#6)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#6)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:01 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 6
+* About to connect() to videobreakdown.azure-api.net port 443 (#7)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#7)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:03 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 7
+* About to connect() to videobreakdown.azure-api.net port 443 (#8)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#8)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:05 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 8
+* About to connect() to videobreakdown.azure-api.net port 443 (#9)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#9)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:06 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 9
+* About to connect() to videobreakdown.azure-api.net port 443 (#10)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#10)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:07 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 10
+* About to connect() to videobreakdown.azure-api.net port 443 (#11)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#11)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:08 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 11
+* About to connect() to videobreakdown.azure-api.net port 443 (#12)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#12)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:10 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 12
+* About to connect() to videobreakdown.azure-api.net port 443 (#12)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#12)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:10 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 12
+* About to connect() to videobreakdown.azure-api.net port 443 (#13)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#13)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:11 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 13
+* About to connect() to videobreakdown.azure-api.net port 443 (#14)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#14)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:12 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 14
+* About to connect() to videobreakdown.azure-api.net port 443 (#15)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#15)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:53:13 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 15
+* About to connect() to videobreakdown.azure-api.net port 443 (#7)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#7)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/d96b000f13 HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:55:28 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 7
+* About to connect() to videobreakdown.azure-api.net port 443 (#5)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#5)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/7e09effd6e HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: 0
+
+< HTTP/1.1 404 Resource Not Found
+< Content-Length: 54
+< Content-Type: application/json
+< Date: Wed, 27 Sep 2017 09:59:40 GMT
+* HTTP error before end of send, stop sending
+< 
+* Closing connection 5
+* About to connect() to videobreakdown.azure-api.net port 443 (#3)
+*   Trying 40.123.47.145...
+* Connected to videobreakdown.azure-api.net (40.123.47.145) port 443 (#3)
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+* Server certificate:
+* 	subject: CN=*.azure-api.net
+* 	start date: Jun 30 22:34:55 2017 GMT
+* 	expire date: May 07 17:03:30 2018 GMT
+* 	common name: *.azure-api.net
+* 	issuer: CN=Microsoft IT SSL SHA2,OU=Microsoft IT,O=Microsoft Corporation,L=Redmond,ST=Washington,C=US
+> POST /Breakdowns/Api/Partner/Breakdowns/e09effd6e HTTP/1.1
+Host: videobreakdown.azure-api.net
+Accept: */*
+Ocp-Apim-Subscription-Key:1fb39f00ae48491f81a35300aeaa690a
+Content-Length: -1
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+< HTTP/1.1 400 Bad Request
+< Content-Type: text/html; charset=us-ascii
+< Date: Wed, 27 Sep 2017 09:59:58 GMT
+< Connection: close
+< Content-Length: 374
+< 
+* Closing connection 3
