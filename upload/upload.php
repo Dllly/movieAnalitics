@@ -1,5 +1,5 @@
 <?php
-$videoTitle = $_POST['videoTitle'];
+  $videoTitle = $_POST['videoTitle'];
 $language = $_POST['language'];
 
 $videoTitle = urlencode($videoTitle);
