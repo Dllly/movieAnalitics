@@ -1,28 +1,41 @@
 <?php
-$fp = fopen('mophological.txt', 'r');
-while (!feof($fp)){
-  $noun = false;
-  if (empty($isCheckNoun)){
-    $isCheckNoun = false;
-  } else {
-    if ($isCheckNoun){
-      echo "<br>";
+function deletingBlank($noun){
+  return $word;
+}
+
+function pickingNoun($text){
+  $searchWord = '名詞';
+  $noun = strstr($text, $searchWord, true);
+  if ($noun){
+    $noun = urlencode($noun);
+    $brank = '%09';
+    $word = strstr($noun, $brank, true);
+    $noun = urldecode($word);
+  }
+  return $noun;
+}
+
+$originTexts = file(__DIR__ . '/mophological.txt');
+$result = pickingNoun($originTexts[0]);
+$nounsArray = array();
+for ($i = 0; $i < count($originTexts); $i++){
+  $pickingResult = pickingNoun($originTexts[$i]);
+  $noun ='';
+  while ($pickingResult){
+    $noun = $noun . $pickingResult;
+    $pickingResult = pickingNoun($originTexts[++$i]);
+    if (!$pickingResult){
+      array_push($nounsArray, $noun);
+      $noun = '';
     }
   }
-  $searchWord = '名詞';
-  $firstLine = fgets($fp);
-  $noun = strstr($firstLine, $searchWord, true);
-  if ($noun){
-    $isCheckNoun = true;
-  #deleting space.
-  $noun = urlencode($noun);
-  $secondLine = fgets($fp);
-  $searchWord = '%09';
-  $word = strstr($noun, $searchWord, true);
-  $firstLine = urldecode($word);
-  echo $firstLine;
-  } else {
-    $isCheckNoun = false;
-  }
 }
-fclose($fp);
+
+# counting the number of occurences of each value in '$nounsArray'  
+$countValues = array_count_values($nounsArray);
+
+#sorting '$countValues' in ascending numbers.
+$isRankingArray = arsort($countValues, SORT_NUMERIC);
+foreach ($countValues as $key => $val){
+  echo "$key = $val\n" . "<br>";
+}
