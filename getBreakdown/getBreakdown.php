@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+<input type="button" value="タグ生成する" onClick="location.href='./makingRanking.php'">
+<br><br>
 <?php
 function convertTime($strTime){
   $pattern = '/\d{2}/';
@@ -42,6 +51,9 @@ if (file_exists($jsonUrl)){
   @fwrite($a, "");
   fclose($a);
 
+  $i = 0;
+  $result = array();
+
   foreach($obj as $key=> $val){
     $ocrsIndex = $val["ocrs"];
      foreach ($ocrsIndex as $keyOcr => $valOcr) {
@@ -55,7 +67,8 @@ if (file_exists($jsonUrl)){
 
       $totalTime = $endTime - $startTime;
       echo $totalTime ."<br>";
-
+      $resultPush = array_push($result, array("time" => $totalTime));
+      echo $resultPush ."test<br>";
       $objId = $valOcr["lines"];
       foreach($objId as $keyId=>$valID){
         echo "ID:",$valID["id"],":";
@@ -67,6 +80,16 @@ if (file_exists($jsonUrl)){
     }
   }
 
+  foreach ($result as $value){
+    foreach($value as $valueSmall){
+      echo $valueSmall ."<br>";
+    }
+  }
   $isShellExec = shell_exec("sh ./mecab.sh");
   echo $isShellExec;
 }
+?>
+
+
+</body>
+</html>
