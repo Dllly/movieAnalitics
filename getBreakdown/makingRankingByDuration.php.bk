@@ -1,0 +1,102 @@
+<?php
+function deletingBlank($noun){
+  return $word;
+}
+
+function pickingNoun($text){
+  $searchWord = '名詞';
+  $noun = strstr($text, $searchWord, true);
+  if ($noun){
+    $noun = urlencode($noun);
+    $brank = '%09';
+    $word = strstr($noun, $brank, true);
+    $noun = urldecode($word);
+  } else {
+    $noun = false;
+  }
+  return $noun;
+}
+
+function checkLastLine($text){
+  $searchWord = 'EOS%0A';
+  $urlSentence = urlencode($text);
+  $result = strstr($urlSentence, $searchWord, true);
+  if ($result === 'EOS%0A'){
+    $isEos = true;
+  } else {
+    $isEos = false;
+  }
+  return $isEos;
+}
+
+$originTexts = file(__DIR__ . '/mophological.txt');
+$eosTimeJson = file_get_contents(__DIR__. '/eosTime.json');
+$eosTimeArray = json_decode($eosTimeJson, true);
+
+echo 'eos numbers and duration time.<br>';
+foreach($eosTimeArray as $key => $val){
+  echo $key . " : " . $val . "<br>";
+}
+
+$nounsArray = array();
+$noun ='';
+#$eosArrayKey is used in $eosTimeArray as its key.
+$eosArrayKey = 'EOS0';
+#eosTime is the duration of appearence of a sentence in the video.
+$eosTime = $eosTimeArray[$eosArrayKey];
+$isEos = true;
+$eosCounter = 0;
+
+for ($i = 0; $i < count($originTexts); $i++){
+  #checking the end of the sentence
+  $pickingResult = pickingNoun($originTexts[$i]);
+    #checking the continuous nous , and if it exist, putting together. 
+    while ($pickingResult){
+      $noun = $noun . $pickingResult;
+      $pickingResult = pickingNoun($originTexts[++$i]);
+    }
+    $word = 'EOS%OA';
+    echo $originTexts[$i];
+    $url = urlencode($originTexts[$i]);
+    echo $url ."<br>";
+    $result = strstr($url, $word, true);
+    echo $result;
+    if ($result == 'EOS%0A'){
+      $isEos = true;
+      echo 'hello';
+    } else {
+      $isEos = false;
+      echo 'false';
+    }
+
+    if ($isEos){
+      $eosCounter++;
+    }
+
+    $isEos = false;
+    $eosArrayKey = 'EOS' . $eosCounter;
+    $eosTime = $eosTimeArray[$eosArrayKey];
+    #echo $noun . $eosTime . "<br>";
+    #if (!$pickingResult){
+    #
+    
+     #$nounsArray += array($noun => $eosTime);
+      #array_push($nounsArray, $noun);
+     /* $noun = '';
+      }
+     */
+      $noun = '';
+    $pickingResult = false;
+
+#echo "<BR><br>";
+foreach ($nounsArray as $key => $val){
+  echo $key . " : " . $val ."<br>";
+}
+# counting the number of occurences of each value in '$nounsArray'  
+#$countValues = array_count_values($nounsArray);
+
+#sorting '$countValues' in ascending numbers.
+#$isRankingArray = arsort($countValues, SORT_NUMERIC);
+#foreach ($countValues as $key => $val){
+#  echo "$key = $val\n" . "<br>";
+}

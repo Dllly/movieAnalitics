@@ -52,56 +52,124 @@ if (file_exists($jsonUrl)){
   fclose($a);
 
   $i = 0;
-  $eosCount = 0;
-  $eosCounter = 0;
-  $eosArray = array();
+  $result = array();
+
   foreach($obj as $key=> $val){
     $ocrsIndex = $val["ocrs"];
      foreach ($ocrsIndex as $keyOcr => $valOcr) {
       echo $valOcr["timeRange"]["start"] . "<br>";
       echo $valOcr["timeRange"]["end"] . "<br>";
-
-      #calicutrating the duration of appearance of a word.
       $startTime = $valOcr["timeRange"]["start"];
       $startTime = convertTime($startTime);
+      
       $endTime = $valOcr["timeRange"]["end"];
       $endTime = convertTime($endTime);
+
       $totalTime = $endTime - $startTime;
       echo $totalTime ."<br>";
-
+      $resultPush = array_push($result, array("time" => $totalTime));
+      echo $resultPush ."test<br>";
       $objId = $valOcr["lines"];
-     
-      $eosTotal = count($objId);
-      for ($i = 0 ; $i < $eosTotal; $i++){
-        $eos = "EOS" . (string)$eosCounter;
-        $eosArray += array($eos => $totalTime);
-        $eosCounter++;
-     }
-      
       foreach($objId as $keyId=>$valID){
         echo "ID:",$valID["id"],":";
         echo $valID["textData"], "<br>";
+        $flags = 2;
         file_put_contents("input.txt", $valID["textData"] . PHP_EOL, FILE_APPEND);
       }
       echo "<br>";
     }
   }
 
+  foreach ($result as $value){
+    foreach($value as $valueSmall){
+      echo $valueSmall ."<br>";
+    }
+  }
   $isShellExec = shell_exec("sh ./mecab.sh");
-  echo $isShellExec . "<br>";
- 
-  $eosTime = json_encode($eosArray);
-  file_put_contents("eosTime.json", $eosTime . PHP_EOL);
+  echo $isShellExec;
 }
-
-      foreach($objId as $keyId=>$valID){
-        echo "ID:",$valID["id"],":";
-        echo $valID["textData"], "<br>";
-        file_put_contents("input.txt", $valID["textData"] . PHP_EOL, FILE_APPEND);
-      }
-      echo "<br>";
 ?>
 
 
 </body>
 </html>
+<?php
+function deletingBlank($noun){
+  return $word;
+}
+
+function pickingNoun($text){
+  $searchWord = '名詞';
+  $noun = strstr($text, $searchWord, true);
+  if ($noun){
+    $noun = urlencode($noun);
+    $brank = '%09';
+    $word = strstr($noun, $brank, true);
+    $noun = urldecode($word);
+  }
+  return $noun;
+}
+
+function checkLastLine($text){
+  $searchWord = 'EOS%0A';
+  $urlText = urlEncode($text);
+  $isEos = false;
+  if ($urlText === 'EOS%0A'){
+    $isEos = true;
+  }
+  return $isEos;
+}
+
+$originTexts = file(__DIR__ . '/mophological.txt');
+$result = pickingNoun($originTexts[0]);
+$nounsArray = array();
+$eosCounter = 0;
+$timesCounter = 0;
+
+for ($i = 0; $i < count($originTexts); $i++){
+  $pickingResult = pickingNoun($originTexts[$i]);
+  $noun ='';
+
+  #checking the end of the sentence
+  $isEos = checkLastLine($originTexts[$i]);
+  if (!$isEos){
+    $eos =  "EOS" . $eosCounter; 
+    #echo "eos<br>" . $i;
+    echo $eos ."<br>";
+    $eosCounter++;
+    #echo $eosCounter . "<br>";
+  } else {
+    $eos = '';
+  }
+
+  #checking the continuous nous , and if it exist, putting together. 
+  while ($pickingResult){
+    $noun = $noun . $pickingResult;
+    $pickingResult = pickingNoun($originTexts[++$i]);
+    if (!$pickingResult){
+      #$addArray =array($noun => '1');
+      if (array_key_exists($noun, $nounsArray)){
+        $nounsArray[$noun] += 1;
+        echo $noun;
+      } else {
+        #array_push($nounsArray, $noun);
+        $nounsArray += array($noun => 1);
+        #$nounsArray = array_merge_recursive($nounsArray, $addArray);
+        #print_r($nounsArray);
+      }
+      echo "<br><br>";
+      $noun = '';
+    }
+  }
+}
+foreach ($nounsArray as $key => $val){
+  echo $key . " : " . $val ."<br>";
+}
+# counting the number of occurences of each value in '$nounsArray'  
+#$countValues = array_count_values($nounsArray);
+
+#sorting '$countValues' in ascending numbers.
+#$isRankingArray = arsort($countValues, SORT_NUMERIC);
+#foreach ($countValues as $key => $val){
+#  echo "$key = $val\n" . "<br>";
+#}

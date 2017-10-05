@@ -15,10 +15,6 @@ function pickingNoun($text){
   return $noun;
 }
 
-function checkLastLine($text){
-  $searchWord = 'EOL';
-  $isExistEol = strstr($text, $searchWord, true);
-}
 
 $originTexts = file(__DIR__ . '/mophological.txt');
 $result = pickingNoun($originTexts[0]);
@@ -27,6 +23,9 @@ $nounsArray = array();
 for ($i = 0; $i < count($originTexts); $i++){
   $pickingResult = pickingNoun($originTexts[$i]);
   $noun ='';
+
+
+  #checking the continuous nous , and if it exist, putting together. 
   while ($pickingResult){
     $noun = $noun . $pickingResult;
     $pickingResult = pickingNoun($originTexts[++$i]);
