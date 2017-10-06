@@ -5,7 +5,11 @@
   <title></title>
 </head>
 <body>
+<input type="button" value="WebVTTから作成する" onClick="location.href='./input.html'">
 <input type="button" value="タグ生成する" onClick="location.href='./makingRanking.php'">
+<input type="button" value="固有名詞でタグを生成する" onClick="location.href='./makingRankingProper.php'">
+
+
 <br><br>
 <?php
 function convertTime($strTime){
@@ -55,6 +59,7 @@ if (file_exists($jsonUrl)){
   $eosCount = 0;
   $eosCounter = 0;
   $eosArray = array();
+file_put_contents("input.txt", '');
   foreach($obj as $key=> $val){
     $ocrsIndex = $val["ocrs"];
      foreach ($ocrsIndex as $keyOcr => $valOcr) {
@@ -101,7 +106,6 @@ if (file_exists($jsonUrl)){
       }
       echo "<br>";
 ?>
-
 
 </body>
 </html>
